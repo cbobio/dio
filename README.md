@@ -1,9 +1,7 @@
 #Santander-Dev-Week
 API Rest na Nuvem Usando Spring Boot 3 e Java 17
 
-##  Diagrama de classes 
-# Class Diagram
-
+##  Diagrama de classes
 ```mermaid
 classDiagram
     class User {
